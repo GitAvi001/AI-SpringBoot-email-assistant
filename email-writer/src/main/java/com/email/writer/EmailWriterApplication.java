@@ -1,13 +1,14 @@
-package com.email.email_writer_sb;
+package com.email.writer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmailWriterSbApplication {
+public class EmailWriterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmailWriterSbApplication.class, args);
+
+		SpringApplication.run(EmailWriterApplication.class, args);
 	}
 
 }

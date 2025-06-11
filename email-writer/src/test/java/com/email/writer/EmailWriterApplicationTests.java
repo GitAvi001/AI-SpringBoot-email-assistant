@@ -1,10 +1,10 @@
-package com.email.email_writer_sb;
+package com.email.writer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmailWriterSbApplicationTests {
+class EmailWriterApplicationTests {
 
 	@Test
 	void contextLoads() {
