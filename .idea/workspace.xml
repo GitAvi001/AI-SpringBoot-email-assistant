@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6d0f4d2-f9fb-48f7-abba-ab883b80a13c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-writer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +46,14 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="EmailWriterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" />
-        <env name="GEMINI_KEY" value="" />
+        <env name="GEMINI_KEY" value="AIzaSyD5JLc6ZgydfbBSpOK1Qm8flb4Y5NIJK2w" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.email.writer.EmailWriterApplication" />
       <module name="email-writer" />
