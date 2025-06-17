@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c6d0f4d2-f9fb-48f7-abba-ab883b80a13c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-writer-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-writer-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-writer-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer-react/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-writer-react/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer-react/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-writer-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/email-writer-react/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
